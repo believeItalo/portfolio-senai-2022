@@ -1,0 +1,51 @@
+@media(max-width: 960px){
+
+
+
+   .logo{
+    padding-right: 200px;
+    }
+
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .section-title{
+        font-size: 10rem;
+    }
+    .section-title-sobre-mim{
+        font-size: 10rem;
+    }
+    .description__title{
+        margin-left: 100px;
+        font-size: 4rem;
+    }
+    .description__text{
+        font-size: 1.5rem;
+        margin-left: 100px;
+    }
+    .skills__title{
+        font-size: 4rem;
+        margin-left: 70px;
+    }
+    .site__projetos{
+        width: 290px;
+        height: 200px;
+        margin: 30px;
+        
+    }
+    .contato{
+
+        margin-top: 200px;
+    }
+    .contato-container{
+
+        padding: 20px;
+
+    }
+    .links-container{
+        padding: 50px;
+    }
+}

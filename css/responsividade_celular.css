@@ -1,0 +1,114 @@
+@media(max-width: 640px){
+
+    .menu{
+        font-size: 1rem;
+        gap:40px;
+    }
+    header{
+        display: flex;
+        justify-content: flex-start;
+    }
+    .logo{
+        padding-right: 100px;
+    }
+    .profile{
+        margin-right: 190px;
+    }
+    .profile__text{
+        font-size: 1.5rem;
+    }
+    .profile__name{
+        font-size: 2rem;
+    }
+    .profile__text{
+        font-size: 1.5rem;
+    }
+   
+    .section-title-sobre-mim{
+        font-size: 5rem;
+        display: flex;
+        justify-content: center;
+        width: 640px;
+    }
+    .projetos{
+       margin-left: 70px;
+        
+      
+    }
+    .site__projetos{
+        width: 300px;
+        height: 200px;
+    }
+    .description__title{
+        font-size: 2rem;
+        margin-left: 20px;
+       width: 170px;
+        
+    }
+    .description__text{
+        font-size: 1rem;
+        margin-left: 20px;
+        width: 230px;
+        
+    }
+    .skills__title{
+        font-size: 2rem;
+        margin-left: -70px;
+        
+        
+    }
+    .skills__icons{
+        font-size: 1rem;
+        margin-left: -160px;
+    
+
+    }
+    .skills__icon{
+        height: 100px;
+        width: 100px;
+    }
+    .section-title{
+        font-size: 5rem;
+        display: flex;
+        width: 640px;
+        justify-self: center;
+        margin-left: 30px;
+    }
+
+
+    .card-container{
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+    justify-content: center;
+
+    }
+    .card::before{
+      width: 350px;
+      height: 250px;
+    }
+    .contato{
+        margin-top: 1000px;
+        margin-left: 100px;
+    }
+    .section-title-contato{
+        font-size: 5rem;
+    }
+    .social-container-contato{
+        display: flex;
+        flex-direction: column;
+    }
+    .links-container{
+        margin-right: 300px;
+    }
+  
+    .contato-container{
+        margin-left: -30px;
+    }
+   
+    footer{
+        margin-right: 200px;
+    }
+   
+
+}
